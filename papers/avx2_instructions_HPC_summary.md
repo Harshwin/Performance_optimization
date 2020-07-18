@@ -58,8 +58,6 @@ better overall throughput.
 
 -   bit manipulation instructions,
 
--   bit manipulation instructions,
-
 -   vector to vector shifts,
 
 -   Floating Point Multiply Accumulate (FMA).
